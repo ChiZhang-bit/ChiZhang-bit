@@ -29,8 +29,10 @@ You can click the Preview link to take a look at your changes.
 Continue to Learning new knowledge
 
 <html>
+
 <div align="center"> 
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=chizhang-bit&show_icons=true&theme=transparent" />
+	<img src="https://github-readme-stats.vercel.app/api?username=chizhang-bit&show_icons=true&theme=transparent" />
 </div>
+
 </html>
 
