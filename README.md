@@ -2,7 +2,7 @@
 
 It's Chi Zhang, graduated from BIT (Beijing Institute of Technology), continuing to pursue the master degree in BIT.
 
-+ 👀Research interests: Natural Language Process, Data Visualization and Database.
++ 👀Research interests: Natural Language Process, Structure Data and Healthcare Big Data.
 + :keyboard:Skill Languages: 
   + <img src="https://img.shields.io/badge/C-Compiled-informational?&labelColor=2c48aa&color=585858"> <img src="https://img.shields.io/badge/C++-Compiled-informational?&labelColor=719ace&color=585858">
   +  <img src="https://img.shields.io/badge/Java-JIT-informational?&labelColor=c83aaa&color=585858&logo=java&logoColor=FFFFFF">
